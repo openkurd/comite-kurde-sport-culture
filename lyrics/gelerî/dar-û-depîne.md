@@ -37,23 +37,23 @@ Ertoşi ya venge
     \new Lyrics {
       \lyricmode {
         \set stanza = "1. "
-        Dar û de -- pî -- ne ___
-        Dar û de -- pî -- ne ___
-        Mey -- da -- na şa -- xê ___
-        Dar û de -- pî -- ne ___
-        Mey -- da -- na şa -- xê ___
-        Dar û de -- pî -- ne ___
+        Dar _ û de -- pî -- _ ne ___
+        Dar _ û de -- pî -- _ ne ___
+        Mey _ -- da -- na şa -- _ xê ___
+        Dar _ û de -- pî -- _ ne ___
+        Mey _ -- da -- na şa -- _ xê ___
+        Dar _ û de -- pî -- _ ne ___
       }
     }
     \new Lyrics {
       \lyricmode {
         \set stanza = "2. "
-        Hoy şen -- ge şen -- ge ___
-        Şekir a -- xa şen -- ge ___
-        Şekir a -- xa kuş -- tin ___
-        Er -- toş -- i_ya ven -- ge ___
-        Şe -- rê sor kuş -- tin ___
-        Er -- toş -- i_ya ven -- ge ___
+        Hoy _ şen -- ge şen -- _ ge ___
+        Şekir _ a -- xa şen -- _ ge ___
+        Şekir _ a -- xa kuş -- _ tin ___
+        Er -- _ toş -- i_ya ven -- _ ge ___
+        Şe -- _ rê sor kuş -- _ tin ___
+        Er -- _ toş -- i_ya ven -- _ ge ___
       }
     }
   >>
